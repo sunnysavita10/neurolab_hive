@@ -80,13 +80,10 @@ describe formatted ineuron
 select * from ineuron;
 ```
 
-
-
-
 9. alter the table in hive
 
-'''
+```
 alter table table_name to new_table_table;
-'''
+```
 
 
